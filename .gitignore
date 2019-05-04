@@ -1,0 +1,12 @@
+
+# cached the ide settings .. 
+.settings
+.classpath
+.project
+
+# cached the build java code ( classes ) .. 
+build
+
+# cached other generated files .. 
+frontend/META-INF
+frontend/WEB-INF
